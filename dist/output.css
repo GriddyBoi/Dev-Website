@@ -76,7 +76,7 @@ hr {
 /*
 Add the correct text decoration in Chrome, Edge, and Safari.
 */
-
+text-gray-300 text-lg mb-3 server-online
 abbr:where([title]) {
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted;
