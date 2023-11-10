@@ -16,7 +16,7 @@ html {
 
 .header {
     color: var(--offwhite);
-    font-size: 2em;
+    font-size: 4em;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -47,6 +47,7 @@ hr {
 .discordicon {
     padding: 5px;
     text-decoration: none;
+    
 }
 
 
