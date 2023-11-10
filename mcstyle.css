@@ -18,12 +18,3 @@ html {
     text-shadow:  0px 0px 2.75px var(--offwhite);
 }
 
-.mc-player-count {
-
-color: var(--offwhite);
-text-align: center;
-font-family: Arial, Helvetica, sans-serif;
-font-weight: bold;
-
-
-}
